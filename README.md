@@ -111,6 +111,3 @@ Hostel-Room-Allocation/
 
 ---
 
-## Author
-
-KDM
