@@ -44,22 +44,6 @@ Students are sorted based on priority and assigned to the first available room w
 
 ---
 
-## How to Run
-
-### Compile
-
-```bash
-gcc main.c -o hostel
-```
-
-### Execute
-
-```bash
-./hostel
-```
-
----
-
 ## Sample Workflow
 
 1. Add students with their IDs and priorities
@@ -76,7 +60,7 @@ gcc main.c -o hostel
 ```
 Hostel-Room-Allocation/
 │
-├── main.c        # Main source code
+├── HOTEL ROOM ALLOCATION.c       # Main source code
 ├── data.txt      # Stored data file (generated at runtime)
 ├── README.md     # Documentation
 ```
